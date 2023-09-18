@@ -10,5 +10,5 @@ author_profile: true
 <p style="font-size: 18px; text-align: justify;">Thank you for taking the time to learn more about me and my academic background. Please feel free to explore my research and publications further on this site.</p>
 
 
-<div style="text-align: center"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/2.js?i=5njfyrmqzov&amp;m=0&amp;s=130&amp;c=ff0000&amp;t=1" async="async"></script></div>
+<div style="text-align: center"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=5upxbldvc4z&amp;s=220&amp;m=8&amp;v=false&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script></div>
 <!--<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=9WBFy8jOd7GwcLQv0r0CW-MbLpgh35Zh5_V9Xc6sKbQ"></script>-->
