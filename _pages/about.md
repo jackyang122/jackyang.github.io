@@ -11,6 +11,6 @@ author_profile: true
 
 
 <div style="text-align: center">
-  <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5isi7hh2ts6&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+ <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5isi7hh2ts6&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 </div>
-<!--<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=9WBFy8jOd7GwcLQv0r0CW-MbLpgh35Zh5_V9Xc6sKbQ"></script>-->
+
