@@ -15,7 +15,7 @@ redirect_from:
 
 * 🎓 **Deakin University**
     * Phd
-    * 09/2023~Now
+    * 11/2023~Now
     * 📍 *Melbourne, Australia*
 
 * 🎓 **University of Groningen**
