@@ -13,10 +13,10 @@ redirect_from:
 
 <span style="font-family: 'euclid';">
 
-* 🎓 **Hong Kong Polytechnic University**
+* 🎓 **Deakin University**
     * Phd
     * 09/2023~Now
-    * 📍 *Hongkong, China*
+    * 📍 *Melbourne, Australia*
 
 * 🎓 **University of Groningen**
     * Exchange student of Spatial Sciences
