@@ -88,11 +88,11 @@ author:
   university       : ""
   location         : "China guang zhou"
   employer         :
-  cnblog           : "https://www.cnblogs.com/skypanxh/"
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=ttiBCPMAAAAJ"
+  # cnblog           : "https://www.cnblogs.com/skypanxh/"
+  # pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=ttiBCPMAAAAJ"
   email            : "948100998@qq.com"
-  researchgate     : ""
+  # researchgate     : ""
   uri              :
   bitbucket        :
   codepen          :
