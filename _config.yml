@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xinhao Pan / Academic Pages"
+title                    : "Yang Jie / Academic Pages"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -84,15 +84,15 @@ author:
   name             : "Yang Jie"
   avatar           : "yangjie.jpg"
   bio              : "I am an NLP researcher."
-  homepage         : "https://xinhaopan1.github.io/index.html"
-  university       : "https://www.deakin.edu.au/"
-  location         : "Melbourne·Australia"
+  homepage         : "https://jackyang122.github.io/index.html"
+  university       : ""
+  location         : "China guang zhou"
   employer         :
   cnblog           : "https://www.cnblogs.com/skypanxh/"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=ttiBCPMAAAAJ"
   email            : "948100998@qq.com"
-  researchgate     : "https://www.researchgate.net/profile/Xinhao-Pan"
+  researchgate     : ""
   uri              :
   bitbucket        :
   codepen          :
