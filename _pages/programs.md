@@ -14,7 +14,5 @@ author_profile: true
   </ul>
 
 
-</div>
-
 
 
