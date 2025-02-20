@@ -28,6 +28,6 @@ c. 修改根目录根目录中的`_config.yml`文件，写下名称和链接
 ## 四、添加博客
 在`_posts`文件夹中新建`.md`格式的文件，即可写自己的博客，文件名称必须按照“`YEAR-MONTH-DAY-title.md`”的格式，例如“`2023-03-20-Blog Test.md`”,建议在之前博客文件的基础上进行修改。
 
-# 欢迎访问我的个人主页：<a href="链接地址" target="https://xinhaopan.github.io/">https://xinhaopan.github.io/</a>
+# 欢迎访问我的个人主页：<a href="链接地址" target="https://jackyang122.github.io//">https://jackyang122.github.io//</a>
 
 
