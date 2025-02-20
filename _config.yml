@@ -81,9 +81,9 @@ analytics:
 # Site Author
 #"I am seeking a Geography PhD position starting in Spring 2024."
 author:
-  name             : "Xinhao Pan"
-  avatar           : "profile4.jpg"
-  bio              : "I'm a first-year PhD student."
+  name             : "Yang Jie"
+  avatar           : "yangjie.jpg"
+  bio              : "I am an NLP researcher."
   homepage         : "https://xinhaopan1.github.io/index.html"
   university       : "https://www.deakin.edu.au/"
   location         : "Melbourne·Australia"
@@ -91,7 +91,7 @@ author:
   cnblog           : "https://www.cnblogs.com/skypanxh/"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=ttiBCPMAAAAJ"
-  email            : "panxinhao98@gmail.com"
+  email            : "948100998@qq.com"
   researchgate     : "https://www.researchgate.net/profile/Xinhao-Pan"
   uri              :
   bitbucket        :
