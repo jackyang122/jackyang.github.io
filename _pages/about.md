@@ -12,7 +12,7 @@ I am honored to work in the AI lab alongside a group of intelligent colleagues.
 
 You can experience our latest work here: [All Voice](https://allvoice-testing.funnycp.com/workbench/audio-book?activeName=Generate).
 
-[Email](mailto:948100998@qq.com) / [GitHub](https://github.com/)>
+[Email](mailto:948100998@qq.com) / [GitHub](https://github.com/)
 
 
 <div style="text-align: center">
